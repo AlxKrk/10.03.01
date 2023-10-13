@@ -1,0 +1,1 @@
+fix in file 3.txt
